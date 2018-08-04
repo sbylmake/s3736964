@@ -6,22 +6,18 @@ Further into my teen years (and with a greater respect for the screws keeping my
 
 My intrigue led me to study Software Design & Development during high school, and now a Bachelor of Information Technology at RMIT, which will further expanded my knowledge on what this sector of technology is truly capable of. 
 
-### Markdown
+## Why RMIT?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I made the choice to commence my IT studies at RMIT as my internet research throughout RMIT’s Subreddit, website, general internet forums and course structure documents revealed that RMIT provided the most up to date and reputable IT course within the Melbourne CBD area. 
+
+This led me to decide that RMIT was the best decision for my education as well as my commute. As I moved to Melbourne from NSW, during my brief trips here before the final move, I visited RMIT’s Melbourne City Campus (as well as The University of Melbourne & Swinburne) and was incredibly impressed at the functionality and grandeur of its resources.
 
 ```markdown
-Syntax highlighted code block
+What do I expect to learn during my studies?
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. I hope to gain a deeper, practical understanding into the rapidly changing IT landscape operating throughout both corporate and consumer worlds - in regards to aspects such as troubleshooting, designing and         problem solving IT infrastructure such as applications, websites, physical hardware components and multitudes more.
+2. I expect to learn a great deal about the industry and employment within the IT industry, and how to make my credentials stand out in the crowd when it comes to my post-graduate life.
+3. Make friends and get to know this new city!
 
 **Bold** and _Italic_ and `Code` text
 
