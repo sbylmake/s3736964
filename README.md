@@ -15,8 +15,13 @@ This led me to decide that RMIT was the best decision for my education as well a
 ```markdown
 **What do I expect to learn during my studies?**
 
-1. I hope to gain a deeper, practical understanding into the rapidly changing IT landscape operating throughout both corporate and consumer worlds - in regards to aspects such as troubleshooting, designing and         problem solving IT infrastructure such as applications, websites, physical hardware components and multitudes more.
-2. I expect to learn a great deal about the industry and employment within the IT industry, and how to make my credentials stand out in the crowd when it comes to my post-graduate life.
+1. I hope to gain a deeper, practical understanding into the rapidly changing IT landscape 
+   operating throughout both corporate and consumer worlds - in regards to aspects such as 
+   troubleshooting, designing and problem solving IT infrastructure such as applications, 
+   websites, physical hardware components and multitudes more.
+2. I expect to learn a great deal about the industry and employment within the IT industry, 
+   and how to make my credentials stand out in the crowd when it comes to my post-graduate 
+   life.
 3. Make friends and get to know this new city!
 ```
 
