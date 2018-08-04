@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Information Technology
 
 You can use the [editor on GitHub](https://github.com/sbylmake/s3736964/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
