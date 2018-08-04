@@ -1,8 +1,10 @@
-## Information Technology
+## My interest in IT
 
-You can use the [editor on GitHub](https://github.com/sbylmake/s3736964/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Most of my younger memories involve me taking apart (and inevitably breaking) my family’s computers. In my mind, those futile exercises were the keys to unlocking truth of how it was possible for me to play a game of pinball on a screen, but they only got me so far. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Further into my teen years (and with a greater respect for the screws keeping my computer together) I began to learn the intricacies of these seemingly magical devices, through the power of code - Java, Python, Swift, SQL, C# - to try and understand the relationship between these different dialects of broken English, and the way they interacted with a computer’s hardware. 
+
+My intrigue led me to study Software Design & Development during high school, and now a Bachelor of Information Technology at RMIT, which will further expanded my knowledge on what this sector of technology is truly capable of. 
 
 ### Markdown
 
