@@ -13,23 +13,10 @@ I made the choice to commence my IT studies at RMIT as my internet research thro
 This led me to decide that RMIT was the best decision for my education as well as my commute. As I moved to Melbourne from NSW, during my brief trips here before the final move, I visited RMIT’s Melbourne City Campus (as well as The University of Melbourne & Swinburne) and was incredibly impressed at the functionality and grandeur of its resources.
 
 ```markdown
-What do I expect to learn during my studies?
+**What do I expect to learn during my studies?**
 
 1. I hope to gain a deeper, practical understanding into the rapidly changing IT landscape operating throughout both corporate and consumer worlds - in regards to aspects such as troubleshooting, designing and         problem solving IT infrastructure such as applications, websites, physical hardware components and multitudes more.
 2. I expect to learn a great deal about the industry and employment within the IT industry, and how to make my credentials stand out in the crowd when it comes to my post-graduate life.
 3. Make friends and get to know this new city!
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sbylmake/s3736964/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
