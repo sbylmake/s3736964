@@ -25,3 +25,9 @@ This led me to decide that RMIT was the best decision for my education as well a
 3. Make friends and get to know this new city!
 ```
 
+## My ideal IT industry job
+
+Source: https://www.seek.com.au/job/36823914?type=standout
+
+![Image of job advertisement]
+()
