@@ -55,6 +55,34 @@ I currently have a very surface level understanding of the world of information 
 Through completing my Bachelor of Information Technology degree - majoring in cybersecurity - I will have gained the essential qualification for entering the cybersecurity industry, however due to my lack of experience, I could only justifiably enter the industry at a junior position, a role that could potentially provide me with the experience to fulfill my selected Cybersecurity Analyst role in later years.
 
 
+## Personal Profile
+
+### The Myers Briggs Test
+
+Results: [Imgur](https://i.imgur.com/KnHfvfq.png)
+
+### The VARK Questionnaire
+
+Results: [Imgur](https://i.imgur.com/IGcstNp.png)
+
+### The Big Five Personality Test
+
+Results: [Imgur](https://i.imgur.com/UvpVaJE.png)
+
+
+### What do these results mean to me?
+
+The results of each of these 3 tests clearly convey that I am a mostly extroverted, analytical, leadership oriented person. For me, this is no surprise. I enjoy finding the objective truth in situations (be that social or work-related) and am comfortable taking charge in situations where I believe I am qualified. I also enjoy mingling, small talk-style social activities as I like the act of making first impressions and learning as much about as many people in the room so I can build social connections and gather a rich tapestry of interesting and influential friends who allow me to gain a multifaceted perspective of the world.
+
+### How do these results influence my behaivour in a team?
+
+Within a team, these results can benefit me if I harness them correctly. My analytical behaviors allow me to take the different prerogatives of team members into consideration, and interact with them in ways relevant to their respective traits. I am comfortable taking leadership positions as I am a very organised person and love planning, however when other members of the team have similar attributes it may create conflict. Fortunately, I am comfortable with relinquishing leadership as I don’t allow myself to take it personally.
+
+### How should I take these results into account when forming a team?
+
+When forming a team, I keep in mind the leadership attributes of the team members, and whether they are mostly outgoing individuals who are comfortable with pitching ideas, or whether they are more reserved and prefer to take an indirect approach to teamwork. If it’s the first case, I would like to ensure that the team doesn’t have a main leader, as that could create shifts in the team dynamic, as everyone wants to believe that their voice is just as important as each others. In the second case, I would prefer to instill myself as a leader and deal with each team member separately in order to form a systematic plan for the team’s work, and allow them to collaborate over less direct mediums in order for the team members to complete their work at their own place, whilst keeping everyone else in consideration.
+
+
 ## Project Pitch: InGrain
 
 ### Overview
