@@ -108,15 +108,15 @@ As well as that, task manager apps are my favourite use of my smartphone/devices
    lives retains integrity.
 ```
 
-## Tools & technologies
+### Tools & technologies
 
 InGrain will be an application designed for smartphones on the iOS operating system (Android TBD). It will be designed and programmed within Apple’s free IDE, Xcode (and coded with the Swift language). This enables InGrain to work on any of Apple’s native mobile devices, such as the range of iPhones (post-iPhone 6) and iPads (post-iPad 2). InGrain will not (initially) have a desktop counterpart application, as its features are currently designed for mobile phones, however in the future that is a likely addition - as well as Apple Watch integration as well (for features such as disabling notifications, etc).
 
-## Skills required
+### Skills required
 
 This project will not be a single programmer undertaking, as the frameworks of the application are very complex. The application will need to interact with the device’s own settings, which isn’t the most straightforward task, therefore a team of advanced programmers would be required to delegate and organise the development of the app. However, as iOS programming is a highly saturated field, finding the developers with the correct skill set should not be an impossible feat. As for hardware and software, all required for development will be a powerful Mac computer running the OSX operating system, with Xcode installed on the computer, as well as a few Apple mobile devices to test the app on (Xcode runs its own device simulator within the IDE, therefore these devices aren’t even necessary for development).
 
-## Outcome
+### Outcome
 
 If after rigorous debugging, focus group testing & real world use, the app is deemed to be inherently successful, it will then reach the App Store market, listed for free (revenue will be accrued through in-app advertisements). Ideally, the outcome would be that consumers now have an incredibly useful task manager application which renders simpler versions of the app as obsolete, and allows these users to live a more productive life. The impact of InGrain’s development will be that consumers now have a higher standard for what their apps can do, and the marketplace will focus more upon ensuring that their work meets these new standards, in turn leading us to become a more progressive society.
 
