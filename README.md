@@ -57,17 +57,19 @@ Through completing my Bachelor of Information Technology degree - majoring in cy
 
 ## Personal Profile
 
+```markdown
 ### The Myers Briggs Test
 
-Results: [Imgur](https://i.imgur.com/KnHfvfq.png)
+My results: [Imgur](https://i.imgur.com/KnHfvfq.png)
 
 ### The VARK Questionnaire
 
-Results: [Imgur](https://i.imgur.com/IGcstNp.png)
+My results: [Imgur](https://i.imgur.com/IGcstNp.png)
 
 ### The Big Five Personality Test
 
-Results: [Imgur](https://i.imgur.com/UvpVaJE.png)
+My results: [Imgur](https://i.imgur.com/UvpVaJE.png)
+```
 
 
 ### What do these results mean to me?
