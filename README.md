@@ -27,10 +27,7 @@ This led me to decide that RMIT was the best decision for my education as well a
 
 ## My ideal IT industry job
 
-Source: https://www.seek.com.au/job/36823914?type=standout
-
-![Image of job advertisement]
-([Imgur](https://i.imgur.com/xgpocSg.png))
+Source: https://www.seek.com.au/job/36823914?type=standout ([Imgur](https://i.imgur.com/xgpocSg.png))
 
 ### What makes this position appealing to me?
 
@@ -49,4 +46,10 @@ This Cybersecurity Analyst role appeals to myself as it is a first hand role in 
    environment
 5. Hold Australian government security clearance (or the ability to gain it)
 ```
+### Which of these qualifications, skills & experience do I possess?
 
+I currently have a very surface level understanding of the world of information security, and how it relates to the internal and external security of sensitive data within organisations. I also don’t have relevant qualifications for this role, as I have only just began my Bachelor of Information Technology degree, and have never had practical experience working within this industry.
+
+### How will I gain the required attributes for this position?
+
+Through completing my Bachelor of Information Technology degree - majoring in cybersecurity - I will have gained the essential qualification for entering the cybersecurity industry, however due to my lack of experience, I could only justifiably enter the industry at a junior position, a role that could potentially provide me with the experience to fulfill my selected Cybersecurity Analyst role in later years.
