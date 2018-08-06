@@ -71,18 +71,20 @@ As well as that, task manager apps are my favourite use of my smartphone/devices
 ```markdown 
 **Description**
 
-1. InGrain’s inherent purpose is to allow users to be the most productive versions of themselves. 
-   As previously mentioned, InGrain aims to achieve this through manipulating and modifying the 
-   digital environment of the user. For example, a user inputs the habit (a repeated task) of 
-   cycling. They also input that they want to fulfil this habit 3 times a week. InGrain sees the 
-   habit of ‘cycling’ and uses location based data do determine the best weather for the user to 
-   complete this task, and determines which days in the users week will work for cycling in order 
-   for the user to schedule their life around that. As well as that, when the user lets the app 
-   know that they are currently completing this cycling task, InGrain will disable notifications, 
-   set up a cycling playlist (with the streaming service of the user’s choice), keep the user on 
-   track with directions from the map app (if necessary) & time & measure the cycle to provide the 
-   user with helpful information on this task, as well as an array of analytics on how to improve 
-   the completion of the habit for the next time they carry it out.
+1. InGrain’s inherent purpose is to allow users to be the most productive versions of 
+   themselves. As previously mentioned, InGrain aims to achieve this through 
+   manipulating and modifying the digital environment of the user. For example, a user 
+   inputs the habit (a repeated task) of cycling. They also input that they want to 
+   fulfil this habit 3 times a week. InGrain sees the habit of ‘cycling’ and uses 
+   location based data do determine the best weather for the user to complete this task,
+   and determines which days in the users week will work for cycling in order for the 
+   user to schedule their life around that. As well as that, when the user allows the app 
+   to know that they are currently completing this cycling task, InGrain will disable 
+   notifications, set up a cycling playlist (with the streaming service of the user’s 
+   choice), keep the user on track with directions from the map app (if necessary) & 
+   time & measure the cycle to provide the user with helpful information on this task, 
+   as well as an array of analytics on how to improve the completion of the habit for 
+   the next time they carry it out.
    
 2. This array of highly intelligent features provide InGrain with a competitive edge in the 
    oversaturated market of productivity applications, as it understands that the different lives of 
