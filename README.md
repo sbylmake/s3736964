@@ -70,26 +70,9 @@ As well as that, task manager apps are my favourite use of my smartphone/devices
 
 ```markdown 
 **Description**
-1. InGrain’s inherent purpose is to allow users to be the most productive versions of 
-   themselves. As previously mentioned, InGrain aims to achieve this through manipulating 
-   and modifying the digital environment of the user. For example, a user inputs the habit 
-   (a repeated task) of cycling. They also input that they want to fulfil this habit 3 
-   times a week. InGrain sees the habit of ‘cycling’ and uses location based data do 
-   determine the best weather for the user to complete this task, and determines which days 
-   in the users week will work for cycling in order for the user to schedule their life 
-   around that. As well as that, when the user lets the app know that they are currently 
-   completing this cycling task, InGrain will disable notifications, set up a cycling 
-   playlist (with the streaming service of the user’s choice), keep the user on track with 
-   directions from the map app (if necessary) & time & measure the cycle to provide the user 
-   with helpful information on this task, as well as an array of analytics on how to improve 
-   the completion of the habit for the next time they carry it out.
 
-2. The array of highly intelligent features provide InGrain with a competitive edge in the oversaturated market of                productivity applications, as it understands that the different lives of users can greatly inhibit/benefit the completion
-   of particular tasks. InGrain takes as much as it can into consideration, as it integrates itself into the life of the user,    rather than the user seeing it as a burden.
+1. InGrain’s inherent purpose is to allow users to be the most productive versions of themselves. As previously mentioned, InGrain aims to achieve this through manipulating and modifying the digital environment of the user. For example, a user inputs the habit (a repeated task) of cycling. They also input that they want to fulfil this habit 3 times a week. InGrain sees the habit of ‘cycling’ and uses location based data do determine the best weather for the user to complete this task, and determines which days in the users week will work for cycling in order for the user to schedule their life around that. As well as that, when the user lets the app know that they are currently completing this cycling task, InGrain will disable notifications, set up a cycling playlist (with the streaming service of the user’s choice), keep the user on track with directions from the map app (if necessary) & time & measure the cycle to provide the user with helpful information on this task, as well as an array of analytics on how to improve the completion of the habit for the next time they carry it out.
 
-3. The user data within apps such as Google Maps, Calendar, Drive & Gmail (as long as the user provides permissions) can          provide extra help to the user in completing their tasks - such as if a user inputs a task of ‘Start IT Assignment’,          InGrain can use that data to create a new Google Doc labeled ‘IT Assignment’ for the user. Or if the user inputs the task      of ‘Go to the gym’, InGrain can provide directions to the gym, offer workout plans, integrate with Spotify/Apple              Music/Tidal playlists in order to find appropriate music & also take into consideration other exercise tasks the user has      completed recently in order to give them relevant information on how many calories they should aim to burn.
-
-4. Although not currently feasible, the endgame of InGrain would be an all-over integration with a desktop version, Google        Home/Alexa, smartwatch - the internet of things. Consumers will have their reluctance over a program having such a deep        window into their lives, as InGrain could potentially learn more about the user than they know about themselves. This is a    factor which could lead to highly impactful data breaches, yet InGrain’s testament and determination to making InGrain as      beneficial as possible for users would ensure that the growing technolgicalification of personal lives retains integrity.
 ```
 
 
