@@ -31,3 +31,22 @@ Source: https://www.seek.com.au/job/36823914?type=standout
 
 ![Image of job advertisement]
 ([Imgur](https://i.imgur.com/xgpocSg.png))
+
+### What makes this position appealing to me?
+
+This Cybersecurity Analyst role appeals to myself as it is a first hand role in the relation between cybersecurity and the livelihood of an organisation, as this role is required to conduct compliance activities which will aid the business in maintaining its ISM (Australian Government Information Security Manual) rating. The position is also located in the Melbourne CBD and has a starting salary of > $100,000. Another aspect of this role which appeals to me personally is how it involves lots of human interaction - I wouldn’t just be delegated to IT jobs within this position. I wish to improve my communication skills and would like to take on this opportunity to further advance them in a more business-oriented circumstance, due to the collaboration with support teams and development of compliance reports listed as part of this role.
+
+```markdown 
+**Skills, qualifications & experience required for this position**
+
+1. Practical, industry experience with the development and/or support security controls 
+   within operations which home at least one security domain
+2. Experience with the ISM (Australian Government Information Security Manual) or similar 
+   industry standard procedures
+3. Management & communication skills with the ability to collaborate with a diverse range 
+   of support teams
+4. A deep understanding of the world of information security & future development of this
+   environment
+5. Hold Australian government security clearance (or the ability to gain it)
+```
+
