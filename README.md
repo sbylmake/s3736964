@@ -27,7 +27,7 @@ This led me to decide that RMIT was the best decision for my education as well a
 
 ## My ideal IT industry job
 
-Source: https://www.seek.com.au/job/36823914?type=standout ([Imgur](https://i.imgur.com/xgpocSg.png))
+Source: https://www.seek.com.au/job/36823914?type=standout ![Seek Ad](https://i.imgur.com/xgpocSg.png)
 
 ### What makes this position appealing to me?
 
@@ -57,23 +57,22 @@ Through completing my Bachelor of Information Technology degree - majoring in cy
 
 ## Personal Profile
 
-```markdown
-**The Myers Briggs Test**
+**The Myers Briggs Test Results**
 
-My results: ![Image of MBTI results](https://i.imgur.com/KnHfvfq.png)
+![Image of MBTI results](https://i.imgur.com/KnHfvfq.png)
 
-**The VARK Questionnaire**
+**The VARK Questionnaire Results**
 
-My results: ![Image of VARK results](https://i.imgur.com/IGcstNp.png)
+![Image of VARK results](https://i.imgur.com/IGcstNp.png)
 
-**The Big Five Personality Test**
+**The Big Five Personality Test Results**
 
-My results: ![Image of Big Five results](https://i.imgur.com/UvpVaJE.png)
-```
+![Image of Big Five results](https://i.imgur.com/UvpVaJE.png)
+
 
 ### What do these results mean to me?
 
-The results of each of these 3 tests clearly convey that I am a mostly extroverted, analytical, leadership oriented person. For me, this is no surprise. I enjoy finding the objective truth in situations (be that social or work-related) and am comfortable taking charge in situations where I believe I am qualified. I also enjoy mingling, small talk-style social activities as I like the act of making first impressions and learning as much about as many people in the room so I can build social connections and gather a rich tapestry of interesting and influential friends who allow me to gain a multifaceted perspective of the world.
+After completing the 3 tests, the results of each of these 3 tests clearly convey that I am a mostly extroverted, analytical, leadership oriented person. For me, this is no surprise. I enjoy finding the objective truth in situations (be that social or work-related) and am comfortable taking charge in situations where I believe I am qualified. I also enjoy mingling, small talk-style social activities as I like the act of making first impressions and learning as much about as many people in the room so I can build social connections and gather a rich tapestry of interesting and influential friends who allow me to gain a multifaceted perspective of the world.
 
 ### How do these results influence my behaivour in a team?
 
