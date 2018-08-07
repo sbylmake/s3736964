@@ -60,7 +60,7 @@ Through completing my Bachelor of Information Technology degree - majoring in cy
 ```markdown
 **The Myers Briggs Test**
 
-My results: https://user-images.githubusercontent.com/42022501/43753528-9800c3ee-9a49-11e8-9c73-578da37cdbc3.png
+My results: ([Imgur](https://i.imgur.com/KnHfvfq.png))
 
 **The VARK Questionnaire**
 
