@@ -19,15 +19,19 @@ This led me to decide that RMIT was the best decision for my education as well a
    operating throughout both corporate and consumer worlds - in regards to aspects such as 
    troubleshooting, designing and problem solving IT infrastructure such as applications, 
    websites, physical hardware components and multitudes more.
+   
 2. I expect to learn a great deal about the industry and employment within the IT industry, 
    and how to make my credentials stand out in the crowd when it comes to my post-graduate 
    life.
+   
 3. Make friends and get to know this new city!
 ```
 
 ## My ideal IT industry job
 
-Source: https://www.seek.com.au/job/36823914?type=standout ![Seek Ad](https://i.imgur.com/xgpocSg.png)
+Source: https://www.seek.com.au/job/36823914?type=standout 
+
+![Seek Ad](https://i.imgur.com/xgpocSg.png)
 
 ### What makes this position appealing to me?
 
@@ -38,12 +42,16 @@ This Cybersecurity Analyst role appeals to myself as it is a first hand role in 
 
 1. Practical, industry experience with the development and/or support security controls 
    within operations which home at least one security domain
+   
 2. Experience with the ISM (Australian Government Information Security Manual) or similar 
    industry standard procedures
+   
 3. Management & communication skills with the ability to collaborate with a diverse range 
    of support teams
+   
 4. A deep understanding of the world of information security & future development of this
    environment
+   
 5. Hold Australian government security clearance (or the ability to gain it)
 ```
 ### Which of these qualifications, skills & experience do I possess?
@@ -61,9 +69,11 @@ Through completing my Bachelor of Information Technology degree - majoring in cy
 
 ![Image of MBTI results](https://i.imgur.com/KnHfvfq.png)
 
+
 **The VARK Questionnaire Results**
 
 ![Image of VARK results](https://i.imgur.com/IGcstNp.png)
+
 
 **The Big Five Personality Test Results**
 
