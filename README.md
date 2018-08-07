@@ -62,6 +62,7 @@ Through completing my Bachelor of Information Technology degree - majoring in cy
 
 My results: ([Imgur](https://i.imgur.com/KnHfvfq.png))
 
+
 **The VARK Questionnaire**
 
 My results: ([Imgur](https://i.imgur.com/IGcstNp.png))
