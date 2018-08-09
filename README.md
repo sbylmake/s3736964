@@ -56,11 +56,11 @@ This Cybersecurity Analyst role appeals to myself as it is a first hand role in 
 ```
 ### Which of these qualifications, skills & experience do I possess?
 
-I currently have a very surface level understanding of the world of information security, and how it relates to the internal and external security of sensitive data within organisations. I also don’t have relevant qualifications for this role, as I have only just began my Bachelor of Information Technology degree, and have never had practical experience working within this industry.
+I currently have a very surface level understanding of the world of information security, and how it relates to the internal and external security of sensitive data within organisations. I also don’t have relevant qualifications for this role, as I have only just began my Bachelor of Information Technology degree, and have never had practical experience working within this industry - another requirement that this position seeks.
 
 ### How will I gain the required attributes for this position?
 
-Through completing my Bachelor of Information Technology degree - majoring in cybersecurity - I will have gained the essential qualification for entering the cybersecurity industry, however due to my lack of experience, I could only justifiably enter the industry at a junior position, a role that could potentially provide me with the experience to fulfill my selected Cybersecurity Analyst role in later years.
+Through completing my Bachelor of Information Technology degree - majoring in cybersecurity - I will have gained the base qualification for entering the cybersecurity industry (a degree), however due to my lack of industry experience, I could only justifiably enter the industry at a junior position, into a role that could potentially provide me with the experience and qualifications to fulfill my selected Cybersecurity Analyst role in later years.
 
 
 ## Personal Profile
@@ -82,15 +82,15 @@ Through completing my Bachelor of Information Technology degree - majoring in cy
 
 ### What do these results mean to me?
 
-After completing the 3 tests, the results of each of these 3 tests clearly convey that I am a mostly extroverted, analytical, leadership oriented person. For me, this is no surprise. I enjoy finding the objective truth in situations (be that social or work-related) and am comfortable taking charge in situations where I believe I am qualified. I also enjoy mingling, small talk-style social activities as I like the act of making first impressions and learning as much about as many people in the room so I can build social connections and gather a rich tapestry of interesting and influential friends who allow me to gain a multifaceted perspective of the world.
+After completing the 3 tests, the results of each of the tests clearly convey that I am a mostly extroverted, analytical, leadership oriented person. For me, this is no surprise. I enjoy finding the objective truth in situations (be that social or work-related) and am comfortable taking charge in situations where I believe I am qualified. I also enjoy mingling, small talk-style social activities as I enjoy the act of making first impressions and learning as much about as many people in the room so I can build social connections and gather a rich tapestry of interesting and influential friends who allow me to gain a more multifaceted perspective of the world.
 
 ### How do these results influence my behaivour in a team?
 
-Within a team, these results can benefit me if I harness them correctly. My analytical behaviors allow me to take the different prerogatives of team members into consideration, and interact with them in ways relevant to their respective traits. I am comfortable taking leadership positions as I am a very organised person and love planning, however when other members of the team have similar attributes it may create conflict. Fortunately, I am comfortable with relinquishing leadership as I don’t allow myself to take it personally.
+Within a team, these results can greatly benefit me if I harness them correctly. My analytical traits allow me to take the different prerogatives of team members into consideration, and interact with them in ways relevant to their other respective personality traits. I am comfortable taking leadership positions as I am a very organised person and love planning, however when other members of the team have similar attributes it may create conflict. Fortunately, I am comfortable with relinquishing leadership as I don’t allow myself to take it personally.
 
 ### How should I take these results into account when forming a team?
 
-When forming a team, I keep in mind the leadership attributes of the team members, and whether they are mostly outgoing individuals who are comfortable with pitching ideas, or whether they are more reserved and prefer to take an indirect approach to teamwork. If it’s the first case, I would like to ensure that the team doesn’t have a main leader, as that could create shifts in the team dynamic, as everyone wants to believe that their voice is just as important as each others. In the second case, I would prefer to instill myself as a leader and deal with each team member separately in order to form a systematic plan for the team’s work, and allow them to collaborate over less direct mediums in order for the team members to complete their work at their own place, whilst keeping everyone else in consideration.
+When forming a team, I keep in mind the leadership attributes of each of the team members, and whether they are mostly outgoing individuals who are comfortable with pitching ideas, or whether they are more reserved and prefer to take an indirect approach to teamwork. If it’s the first case, I would like to ensure that the team doesn’t have a main leader, as that could create shifts in the team dynamic, as everyone wants to believe that their voice is just as important as each others. In the second case, I would prefer to instill myself as a leader and deal with each team member separately in order to form a systematic plan for the team’s work, and allow them to collaborate over less direct mediums in order for the team members to complete their work at their own place, whilst keeping other team members in consideration.
 
 
 ## Project Pitch: InGrain
