@@ -97,11 +97,11 @@ When forming a team, I keep in mind the leadership attributes of each of the tea
 
 ### Overview
 
-‘InGrain’ is a task manager application which creates a productive environment for the user to complete their tasks in the most efficient manner possible, as it integrates with the behaviour of your phone as an entity. It which allows users to input tasks they wish to complete on a time basis of their choosing (e.g. Floss Teeth - Once a Day) to encourage them to practice and develop new skills & habits, as well as input & complete regular ‘to-do’ tasks, - however, the key to InGrain is how it uses features such as disabling notifications, music libraries, alarms, weather, social media, & maps in order for the user to complete their tasks in the most reasonable, efficient format possible.
+‘InGrain’ is a task manager application which creates a productive environment for the user to complete their tasks in the most efficient manner possible, as it integrates with the behaviour of your phone. It which allows users to input tasks they wish to complete on a time basis of their choosing (e.g. Floss Teeth - Once a Day) to encourage them to practice and develop new skills & habits, as well as input & complete regular ‘to-do’ tasks, - however, the key to InGrain is how it uses features such as disabling notifications, music libraries, alarms, weather, social media, & maps in order for the user to complete their tasks in the most reasonable, efficient format possible.
 
 ### Motivation
 
-Task manager apps have been a staple to the smartphone landscape since their inception, as they are a no brainer - keeping an easily updatable list of errands on you at all times is an invaluable tool. However, through the constant innovation of technology and the market’s competitive nature, users have been gifted with vast improvements to the fundamentals of this style of app, as what was once simply an updatable list, now had features such as setting alarms for completion time, adding collaborators to lists, highlighting particular tasks for higher importance, cloud sharing across devices - all of which are highly practical attributes. However, they only get you so far. The motivation and journey of completing a task all comes from within the user, still. Therefore, with InGrain, I aim to include all these listed features within a greater interface, an interface which provides the user with the ideal environment and tools to complete their tasks or reaffirm habits to the best of their ability. 
+Task manager apps have been a staple to the smartphone landscape since their inception, as they are a no brainer - keeping an easily updatable list of errands on you at all times is an invaluable tool. However, through the constant innovation of technology and the market’s competitive nature, users have been gifted with vast improvements to the fundamentals of this style of app, as what was once simply an updatable list, now boasts features such as setting alarms for completion time, adding collaborators to lists, highlighting particular tasks of higher importance, cloud sharing across devices - all of which are incredibly practical attributes. However, they only get you so far. Still, the motivation and journey of completing a task all comes from within the user. Therefore, with InGrain, I aim to include all the aforementioned features within a more elaborate interface, an interface which provides the user with the ideal environment and tools to complete their tasks or reaffirm habits to the best of their ability. 
 
 As well as that, task manager apps are my favourite use of my smartphone/devices. They allow me to keep my life in track and manage my time as efficiently as possible. Therefore, my intimate use of many of these apps has given me first had experience into what makes them good, what makes them awful, and what they all need to do better - and InGrain will provide the solution to all of those queries.
 
@@ -113,13 +113,13 @@ As well as that, task manager apps are my favourite use of my smartphone/devices
    themselves. As previously mentioned, InGrain aims to achieve this through 
    manipulating and modifying the digital environment of the user. For example, a user 
    inputs the habit (a repeated task) of cycling. They also input that they want to 
-   fulfil this habit 3 times a week. InGrain sees the habit of ‘cycling’ and uses 
+   fulfil this habit 3 times a week. InGrain analyses the habit of ‘cycling’ and uses 
    location based data do determine the best weather for the user to complete this task,
    and determines which days in the users week will work for cycling in order for the 
    user to schedule their life around that. As well as that, when the user allows the 
    app to know that they are currently completing this cycling task, InGrain will disable 
-   notifications, set up a cycling playlist (with the streaming service of the user’s 
-   choice), keep the user on track with directions from the map app (if necessary) & 
+   notifications, set up a cycling playlist (via the streaming service of the user’s 
+   preference), keep the user on track with directions from the map app (if necessary) & 
    time & measure the cycle to provide the user with helpful information on this task, 
    as well as an array of analytics on how to improve the completion of the habit for 
    the next time they carry it out.
@@ -133,21 +133,20 @@ As well as that, task manager apps are my favourite use of my smartphone/devices
 3. The user data within apps such as Google Maps, Calendar, Drive & Gmail (as long as 
    the user provides permissions) can provide extra help to the user in completing 
    their tasks - such as if a user inputs a task of ‘Start IT Assignment’, InGrain can 
-   use that data to create a new Google Doc labeled ‘IT Assignment’ for the user. Or if 
-   the user inputs the task of ‘Go to the gym’, InGrain can provide directions to the 
-   gym, offer workout plans, integrate with Spotify/Apple Music/Tidal playlists in order 
-   to find appropriate music & also take into consideration other exercise tasks the user 
-   has completed recently in order to give them relevant information on how many calories 
-   they should aim to burn.
+   use that information to create a new Google Doc labeled ‘IT Assignment’ for the user. 
+   Or if the user inputs the task of ‘Go to the gym’, InGrain can provide directions to 
+   the gym, offer workout plans, integrate with Spotify/Apple Music/Tidal playlists in 
+   order to find appropriate music & also take into consideration other exercise tasks 
+   the user has completed (and logged into InGrain) recently in order to give them 
+   relevant information on how many calories they should aim to burn.
    
-5. Although not currently feasible, the endgame of InGrain would be an all-over 
-   integration with a desktop version, Google Home/Alexa, smartwatch - the internet of 
-   things. Consumers will have their reluctance over a program having such a deep window 
-   into their lives, as InGrain could potentially learn more about the user than they know 
-   about themselves. This is a factor which could lead to highly impactful data breaches, 
-   yet InGrain’s testament and determination to making InGrain as beneficial as possible 
-   for users would ensure that the growing technolgicalification of personal lives retains 
-   integrity.
+5. Although not currently feasible, the endgame of InGrain would be integration with a 
+   desktop version, Google Home/Alexa, smartwatch - the internet of things. Consumers 
+   will have their reluctance over a program having such a deep window into their lives, 
+   as InGrain could potentially learn more about the user than they know about themselves. 
+   This is a factor which could be vulnerable to highly impactful data breaches, yet 
+   InGrain’s determination to making itself as beneficial as possible for users would 
+   ensure that the growing technolgicalification of personal lives retains integrity.
 ```
 
 ### Tools & technologies
@@ -156,9 +155,9 @@ InGrain will be an application designed for smartphones on the iOS operating sys
 
 ### Skills required
 
-This project will not be a single programmer undertaking, as the frameworks of the application are very complex. The application will need to interact with the device’s own settings, which isn’t the most straightforward task, therefore a team of advanced programmers would be required to delegate and organise the development of the app. However, as iOS programming is a highly saturated field, finding the developers with the correct skill set should not be an impossible feat. As for hardware and software, all required for development will be a powerful Mac computer running the OSX operating system, with Xcode installed on the computer, as well as a few Apple mobile devices to test the app on (Xcode runs its own device simulator within the IDE, therefore these devices aren’t even necessary for development).
+This project will not be a single programmer undertaking, as the frameworks of the application are very complex. The application will need to interact with the device’s own settings, which isn’t the most straightforward task, therefore a team of advanced programmers would be required to delegate and organise the development of the app. However, as iOS programming is a highly saturated field, finding the developers with the correct skill set should not be an impossible feat. As for hardware and software, the only tools required for development will be a powerful Mac computer running the OSX operating system, with Xcode installed on the computer, as well as a few Apple mobile devices to test the app on (Xcode runs its own device simulator within the IDE, therefore these devices aren’t even necessary for development).
 
 ### Outcome
 
-If after rigorous debugging, focus group testing & real world use, the app is deemed to be inherently successful, it will then reach the App Store market, listed for free (revenue will be accrued through in-app advertisements). Ideally, the outcome would be that consumers now have an incredibly useful task manager application which renders simpler versions of the app as obsolete, and allows these users to live a more productive life. The impact of InGrain’s development will be that consumers now have a higher standard for what their apps can do, and the marketplace will focus more upon ensuring that their work meets these new standards, in turn leading us to become a more progressive society.
+If after rigorous debugging, focus group testing & real world use, the app is deemed to be inherently successful, it will then reach the App Store market, listed for free (revenue will be accrued through in-app advertisements & product sponsorships). Ideally, the outcome would be that consumers now have an incredibly useful task manager application which renders simpler versions of task manager apps as obsolete, and allows these users to live a more productive life. The impact of InGrain’s development will be that consumers now have a higher standard for what their apps can do, and the app marketplace will focus more upon ensuring that their work meets these new standards.
 
