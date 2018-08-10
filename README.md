@@ -70,7 +70,7 @@ Through completing my Bachelor of Information Technology degree - majoring in cy
 
 **The Myers Briggs Test Results**
 
-![Image of MBTI results](https://i.imgur.com/KnHfvfq.png)
+![Image of MBTI results](https://i.imgur.com/KnHfvfql.png)
 
 
 **The VARK Questionnaire Results**
