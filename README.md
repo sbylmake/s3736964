@@ -6,6 +6,8 @@ Further into my teen years (and with a greater respect for the screws keeping my
 
 This intrigue led me to study Software Design & Development during high school, and now the Bachelor of Information Technology at RMIT, which will further expanded my knowledge on what this sector of technology is truly capable of. 
 
+![Headshot](https://i.imgur.com/SvSfFij.jpg?1)
+
 ## Why RMIT?
 
 I made the choice to commence my IT studies at RMIT as my internet research throughout RMIT’s Subreddit, website, general internet forums and course structure documents revealed that RMIT provided the most up to date and reputable IT course within the Melbourne CBD area. 
