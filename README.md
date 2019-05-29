@@ -8,11 +8,17 @@ This intrigue led me to study Software Design & Development during high school, 
 
 ![Headshot](https://i.imgur.com/SvSfFij.jpg?1)
 
-## Why RMIT?
+## Why IE University?
 
-I made the choice to commence my IT studies at RMIT as my internet research throughout RMIT’s Subreddit, website, general internet forums and course structure documents revealed that RMIT provided the most up to date and reputable IT course within the Melbourne CBD area. 
+My older sister Nicola impressed me a lot when I was in 6th grade, as she went on a 1.5 exchange to a university in Gualajara as a part
+of her university degree. When she returned, she was fluent in Spanish, and that helped her get a job with a Spanish company in our
+home of Sydney. I wanted to copy her, but make it my own. She helped me love the language of Spanish, first with music such from artists
+such as Natalia La Fourcade, and now with Rosalia, so I aimed to make Spanish a hobby of mine, so I could learn without strict rules,
+and help it change my life in the future. Eventually, my motivation faltered, and I had to have some language rules instilled onto me,
+so I began taking Spanish classes at my school.
 
-As I moved to Melbourne from Sydney, during the trips I took here before my final move, I visited RMIT’s Melbourne City Campus (as well as The University of Melbourne & Swinburne) and was incredibly impressed at the functionality and grandeur of its resources. This led me to decide that RMIT was the best decision for my education (as well as my commute). 
+Fast forward, after beginning university, I immediately contacted faculty to enquire about which Spanish universities I could exchange to, with my particular course. IE University was the first one listed, and I stuck with it. I have been looking forward to the chance
+of studying there so much, many conversations I have had with IE students on the website have provided me with a great insight into what my life could be like if I am granted the chance to study there, and live in the beautiful city of Madrid.
 
 ```markdown
 **What do I expect to learn during my studies?**
@@ -66,101 +72,6 @@ I currently have a very surface level understanding of the world of information 
 Through completing my Bachelor of Information Technology degree - majoring in cybersecurity - I will have gained the base qualification for entering the cybersecurity industry (a degree), however due to my lack of industry experience, I could only justifiably enter the industry at a junior position, into a role that could potentially provide me with the experience and qualifications to fulfill my selected Cybersecurity Analyst role in later years.
 
 
-## Personal Profile
-
-**The Myers Briggs Test Results**
-
-![Image of MBTI results](https://i.imgur.com/KnHfvfql.png)
 
 
-**The VARK Questionnaire Results**
-
-![Image of VARK results](https://i.imgur.com/IGcstNp.png)
-
-
-**The Big Five Personality Test Results**
-
-![Image of Big Five results](https://i.imgur.com/UvpVaJE.png)
-
-
-### What do these results mean to me?
-
-After completing the 3 tests, the results of each of the tests clearly convey that I am a mostly extroverted, analytical, leadership oriented person. For me, this is no surprise. I enjoy finding the objective truth in situations (be that social or work-related) and am comfortable taking charge in situations where I believe I am qualified. I also enjoy mingling, small talk-style social activities as I enjoy the act of making first impressions and learning as much about as many people in the room so I can build social connections and gather a rich tapestry of interesting and influential friends who allow me to gain a more multifaceted perspective of the world.
-
-### How do these results influence my behaivour in a team?
-
-Within a team, these results can greatly benefit me if I harness them correctly. My analytical traits allow me to take the different prerogatives of team members into consideration, and interact with them in ways relevant to their other respective personality traits. I am comfortable taking leadership positions as I am a very organised person and love planning, however when other members of the team have similar attributes it may create conflict. Fortunately, I am comfortable with relinquishing leadership as I don’t allow myself to take it personally.
-
-### How should I take these results into account when forming a team?
-
-When forming a team, I keep in mind the leadership attributes of each of the team members, and whether they are mostly outgoing individuals who are comfortable with pitching ideas, or whether they are more reserved and prefer to take an indirect approach to teamwork. If it’s the first case, I would like to ensure that the team doesn’t have a main leader, as that could create shifts in the team dynamic, as everyone wants to believe that their voice is just as important as each others. In the second case, I would prefer to instill myself as a leader and deal with each team member separately in order to form a systematic plan for the team’s work, and allow them to collaborate over less direct mediums in order for the team members to complete their work at their own place, whilst keeping other team members in consideration.
-
-
-## Project Pitch: InGrain
-
-### Overview
-
-‘InGrain’ is a task manager application which creates a productive environment for the user to complete their tasks in the most efficient manner possible, as it integrates with the behaviour of your phone. It which allows users to input tasks they wish to complete on a time basis of their choosing (e.g. Floss Teeth - Once a Day) to encourage them to practice and develop new skills & habits, as well as input & complete regular ‘to-do’ tasks, - however, the key to InGrain is how it uses features such as disabling notifications, music libraries, alarms, weather, social media, & maps in order for the user to complete their tasks in the most reasonable, efficient format possible.
-
-### Motivation
-
-Task manager apps have been a staple to the smartphone landscape since their inception, as they are a no brainer - keeping an easily updatable list of errands on you at all times is an invaluable tool. However, through the constant innovation of technology and the market’s competitive nature, users have been gifted with vast improvements to the fundamentals of this style of app, as what was once simply an updatable list, now boasts features such as setting alarms for completion time, adding collaborators to lists, highlighting particular tasks of higher importance, cloud sharing across devices - all of which are incredibly practical attributes. However, they only get you so far. Still, the motivation and journey of completing a task all comes from within the user. Therefore, with InGrain, I aim to include all the aforementioned features within a more elaborate interface, an interface which provides the user with the ideal environment and tools to complete their tasks or reaffirm habits to the best of their ability. 
-
-As well as that, task manager apps are my favourite use of my smartphone/devices. They allow me to keep my life in track and manage my time as efficiently as possible. Therefore, my intimate use of many of these apps has given me first had experience into what makes them good, what makes them awful, and what they all need to do better - and InGrain will provide the solution to all of those queries.
-
-
-```markdown 
-**Description**
-
-1. InGrain’s inherent purpose is to allow users to be the most productive versions of 
-   themselves. As previously mentioned, InGrain aims to achieve this through 
-   manipulating and modifying the digital environment of the user. For example, a user 
-   inputs the habit (a repeated task) of cycling. They also input that they want to 
-   fulfil this habit 3 times a week. InGrain analyses the habit of ‘cycling’ and uses 
-   location based data do determine the best weather for the user to complete this task,
-   and determines which days in the users week will work for cycling in order for the 
-   user to schedule their life around that. As well as that, when the user allows the 
-   app to know that they are currently completing this cycling task, InGrain will disable 
-   notifications, set up a cycling playlist (via the streaming service of the user’s 
-   preference), keep the user on track with directions from the map app (if necessary) & 
-   time & measure the cycle to provide the user with helpful information on this task, 
-   as well as an array of analytics on how to improve the completion of the habit for 
-   the next time they carry it out.
-   
-2. This array of highly intelligent features provide InGrain with a competitive edge 
-   in the oversaturated market of productivity applications, as it understands that the 
-   different lives of users can greatly inhibit/benefit the completion of particular 
-   tasks. InGrain takes as much as it can into consideration, as it integrates itself 
-   into the life of the user, rather than the user seeing it as a burden.
-   
-3. The user data within apps such as Google Maps, Calendar, Drive & Gmail (as long as 
-   the user provides permissions) can provide extra help to the user in completing 
-   their tasks - such as if a user inputs a task of ‘Start IT Assignment’, InGrain can 
-   use that information to create a new Google Doc labeled ‘IT Assignment’ for the user. 
-   Or if the user inputs the task of ‘Go to the gym’, InGrain can provide directions to 
-   the gym, offer workout plans, integrate with Spotify/Apple Music/Tidal playlists in 
-   order to find appropriate music & also take into consideration other exercise tasks 
-   the user has completed (and logged into InGrain) recently in order to give them 
-   relevant information on how many calories they should aim to burn.
-   
-5. Although not currently feasible, the endgame of InGrain would be integration with a 
-   desktop version, Google Home/Alexa, smartwatch - the internet of things. Consumers 
-   will have their reluctance over a program having such a deep window into their lives, 
-   as InGrain could potentially learn more about the user than they know about themselves. 
-   This is a factor which could be vulnerable to highly impactful data breaches, yet 
-   InGrain’s determination to making itself as beneficial as possible for users would 
-   ensure that the growing technolgicalification of personal lives retains integrity.
-```
-
-### Tools & technologies
-
-InGrain will be an application designed for smartphones on the iOS operating system (Android TBD). It will be designed and programmed within Apple’s free IDE, Xcode (and coded with the Swift language). This enables InGrain to work on any of Apple’s native mobile devices, such as the range of iPhones (post-iPhone 6) and iPads (post-iPad 2). InGrain will not (initially) have a desktop counterpart application, as its features are currently designed for mobile phones, however in the future that is a likely addition - as well as Apple Watch integration as well (for features such as disabling notifications, etc).
-
-### Skills required
-
-This project will not be a single programmer undertaking, as the frameworks of the application are very complex. The application will need to interact with the device’s own settings, which isn’t the most straightforward task, therefore a team of advanced programmers would be required to delegate and organise the development of the app. However, as iOS programming is a highly saturated field, finding the developers with the correct skill set should not be an impossible feat. As for hardware and software, the only tools required for development will be a powerful Mac computer running the OSX operating system, with Xcode installed on the computer, as well as a few Apple mobile devices to test the app on (Xcode runs its own device simulator within the IDE, therefore these devices aren’t even necessary for development).
-
-### Outcome
-
-If after rigorous debugging, focus group testing & real world use, the app is deemed to be inherently successful, it will then reach the App Store market, listed for free (revenue will be accrued through in-app advertisements & product sponsorships). Ideally, the outcome would be that consumers now have an incredibly useful task manager application which renders simpler versions of task manager apps as obsolete, and allows these users to live a more productive life. The impact of InGrain’s development will be that consumers now have a higher standard for what their apps can do, and the app marketplace will focus more upon ensuring that their work meets these new standards.
 
