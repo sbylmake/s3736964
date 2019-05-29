@@ -1,3 +1,8 @@
+## The Personal Essay of Sarah Bylmakers
+
+I decided to do something different for this section of my IE University application. I hope you enjoy, as the answers are integrated throughout this website.
+
+
 ## My interest in IT
 
 Most of my younger memories involve me taking apart (and inevitably breaking) my family’s computers. In my mind, those futile exercises were the keys to unlocking truth of how it was possible for me to play a game of pinball on a screen, but they only got me so far. 
